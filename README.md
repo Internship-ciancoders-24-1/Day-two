@@ -1,4 +1,4 @@
-# Día uno
+# Día dos
 ## Actividades del día
 
 1. Curso de fundamentos de python.
